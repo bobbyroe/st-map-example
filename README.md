@@ -1,8 +1,8 @@
-# Contacts Dashboard
+# Map Example
 
-This is a **Streamlit** application that provides a dashboard for visualizing imaginary contact analytics. It processes and displays data from a CSV file
+This is a **Streamlit** application demoing basic mapping features.
 
-[On Streamlit Cloud](https://contacts-dashboard-rb.streamlit.app/)
+[On Streamlit Cloud](https://map-example.streamlit.app/)
 
 ## Usage
 
@@ -18,8 +18,6 @@ This is a **Streamlit** application that provides a dashboard for visualizing im
 ## Dependencies
 - [Streamlit](https://streamlit.io/)
 - [Pandas](https://pandas.pydata.org/)
-- [plotly](https://plotly.com/python/)
-- [PIL](https://python-pillow.github.io/)
 
 ## License
 
